@@ -1,4 +1,5 @@
 # CartoonIt
+<<<<<<< HEAD
 Title : CartoonIt
 Description of the hack : This project inputs an image and converts it into cartoonified version. There will be three versions of the image to see an image in a fun way. First version is grayscale image while second is edges of an image and lastly we see a cartoonified image.
 Tech stack used : Python and its libraries 
