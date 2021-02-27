@@ -1,6 +1,6 @@
 # CartoonIt
 Title : CartoonIt<br>
-Description of the hack : This project inputs an image and converts it into cartoonified version. There will be three versions of the image to see an image in a fun way. First version is grayscale image while second is edges of an image and lastly we see a cartoonified image.<br>
+Description of the hack : This project inputs an image and converts it into cartoonified version. There will be three versions of the image to see an image in a fun way. First version is grayscale image while second is edges of an image and lastly we see a cartoonified image. You can also save the image in your local PC.<br>
 Tech stack used : Python and its libraries <br>
 Libraries and dependencies required for the project (If any): OpenCV,easygui,numpy,imageio,matplotlib,tkinter, OS and pillow<br>
 Installation steps: <br>
